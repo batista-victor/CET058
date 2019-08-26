@@ -1,0 +1,4 @@
+nome = "victor"
+x = 5.4
+y = 3
+se x > y entao x = z
